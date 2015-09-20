@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="target/benchmarks.jar"/>
+	<classpathentry kind="lib" path="target/test-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jmh-core-1.10.5.jar"/>
+	<classpathentry kind="lib" path="lib/jmh-generator-annprocess-1.10.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

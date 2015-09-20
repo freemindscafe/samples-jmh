@@ -1,0 +1,11 @@
+/.project
+/*.log*
+/samples-jmh.jar
+/build
+/doc
+/html
+/*.tmp
+/core-lib
+/tomcat-lib
+/target
+
